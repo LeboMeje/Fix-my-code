@@ -14,4 +14,9 @@ The project is optional.
 | `1-print_square.js` | Prints a square with the character `#` |
 | `2-sort.rb` | Sort integer arguments  in ascending order |
 | `3-user.py` | Creates a function for user & a password |
-| `4-delete_dnodeint/` | Delete a node at a specific index from a list(Double linked list) |
+| `add_dnodeint_end.c` | Adds a node at the end of a list |
+| `delete_dnodeint_at_index.c` | Delete a node at a specific index from a list |
+| `free_dlistint.c` | Function that frees a list |
+| `lists.h` | Header file with doubly linked list node structure |
+| `main.c` | Main file that check the codes for success |
+| `print_dlistint.c` | Prints a doubly linkedlist of integers |
